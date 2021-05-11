@@ -1,0 +1,8 @@
+#!/bin/bash 
+ismuted=$(amixer get Master | tail -2 | grep -c '\[off\]')
+vol="$(amixer get Master | tail -n1 | sed -r 's/.*\[(.*)%\].*/\1/')"
+if [ "$ismuted" == "0" ]; then
+  echo "${vol}% volume "
+else
+  echo "0% volume "
+fi

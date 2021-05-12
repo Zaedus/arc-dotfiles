@@ -17,6 +17,7 @@
 | Notifications | [dunst](https://github.com/dunst-project/dunst)                                                    |
 | Compositor    | [picom (jonaburg)](https://github.com/jonaburg/picom)                                              |
 | File Manager  | [nautilus](https://github.com/GNOME/nautilus)                                                      |
+| Wallpaper     | [arc-dark.png](https://github.com/Zaedus/arc-dotfiles/blob/master/arc-dark.png)                    |
 
 ## Install Instructions
 

@@ -1,0 +1,8 @@
+#!/usr/bin/sh
+
+if (($(pidof picom | wc -l) > 0))
+then
+    pkill -9 picom
+else
+    picom &
+fi

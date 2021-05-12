@@ -1,0 +1,6 @@
+#!/bin/bash
+celsius=$(sensors | grep "Package id 0:" | awk '{print $4}' | sed s/\+// | sed s/°C//)
+
+fahrenheit=$(gnome-calculator --solve="($celsius*1.8) + 32")
+
+echo "$fahrenheit°F "

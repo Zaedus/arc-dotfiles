@@ -1,0 +1,7 @@
+.dwm/scripts/indicators
+.dwm/scripts/mutemic
+.dwm/scripts/voldown
+.dwm/scripts/volup
+
+update.sh
+.gitignore

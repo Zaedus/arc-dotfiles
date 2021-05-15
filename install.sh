@@ -50,13 +50,14 @@ backup_dotfiles() {
 	if [[ $REPLY =~ ^[Yy]$ ]]; then
 		return 0
 	else
+		echo
 		exit
 	fi
 }
 
 
 install_dependencies() {
-	$AUR_HELPER -S $APP_DEPS $UTIL_DEPS $BUILD_DEPS $THEME_DEPS $BACKEND_DEPS
+	$AUR_HELPER -S $APP_DEPS $UTIL_DEPS $BUILD_DEPS $THEME_DEPS $BACKEND_DEPS </dev/tty
 }
 
 

@@ -63,10 +63,11 @@ install_dependencies() {
 main() {
 	if [ ! -z "$1" ]; then
 		AUR_HELPER="$1"
-		if [ -z "$(/usr/bin/env "$AUR_HELPER")" ]; then
-			echo "Command not found: $AUR_HELPER"
-			exit 1
-		fi
+	fi
+
+	if [ -z "$(/usr/bin/env "$AUR_HELPER")" ]; then
+		echo "Command not found: $AUR_HELPER"
+		exit 1
 	fi
 
 	install_dependencies

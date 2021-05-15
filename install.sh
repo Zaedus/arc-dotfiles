@@ -103,7 +103,7 @@ main() {
 
 	install_dmenu
 
-	final_setup
+	#final_setup
 }
 
 main

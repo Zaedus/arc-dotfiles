@@ -5,6 +5,7 @@
 # Not sure if there is any other AUR helper other than paru that has the same syntax as yay, so just know that
 
 AUR_HELPER="yay"
+
 APP_DEPS="dunst alacritty nautilus"
 BACKEND_DEPS="picom-jonaburg-git acpi pacman-contrib checkupdates-aur alsa-utils"
 UTIL_DEPS="nitrogen polkit-gnome"

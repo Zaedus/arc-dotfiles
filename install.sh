@@ -35,6 +35,16 @@ install_dwm() {
 	cd dwm-arc
 	make
 	sudo make clean install
+
+	cd /tmp
+
+	if [ ! -d /tmp/arc-dotfiles ]; then
+		git clone https://github.com/Zaedus/arc-dotfiles.git
+	fi
+
+	cd arc-dotfiles
+
+	sudo cp dwm.desktop /usr/share/xsessions/
 }
 
 install_dotfiles() {

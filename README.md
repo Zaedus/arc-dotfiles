@@ -6,25 +6,26 @@
 
 ## General Info
 
-| Type             | Name                                                                                          |
-| ---------------- | --------------------------------------------------------------------------------------------- |
-| GTK Theme        | [Arc-Dark](https://github.com/jnsh/arc-theme)                                                 |
-| Icon Theme       | [Arc](https://github.com/horst3180/arc-icon-theme)                                            |
-| Cursor Theme     | [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)                        |
-| Firefox Theme    | [Arc Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/)           |
-| WM               | [dwm](https://github.com/Zaedus/dwm-arc) w/ customization                                     |
-| Launcher         | [dmenu](https://github.com/Zaedus/dmenu-arc) w/ customization                                 |
-| Blocks           | [dwmblocks](https://github.com/Zaedus/dwmblocks-arc) w/ customization                         |
-| Terminal         | [alacritty](https://github.com/alacritty/alacritty)                                           |
-| Browser          | firefox or [ungoogled chromium](https://github.com/Eloston/ungoogled-chromium)                |
-| Spotify Theme    | [Arc Dark](https://github.com/morpheusthewhite/spicetify-themes/wiki/Themes-preview#arc-dark) |
-| Notifications    | [dunst](https://github.com/dunst-project/dunst)                                               |
-| Compositor       | [picom (jonaburg)](https://github.com/jonaburg/picom)                                         |
-| File Manager     | [nautilus](https://github.com/GNOME/nautilus)                                                 |
-| Wallpaper        | [arc-dark.png](https://raw.githubusercontent.com/Zaedus/arc-dotfiles/master/arc-dark.png)     |
-| Spotify Client   | [spot](https://github.com/xou816/spot) or the official client                                 |
-| Github Stats     | [octotui](https://github.com/irevenko/octotui)                                                |
-| Audio Visualizer | [cava](https://github.com/karlstav/cava)                                                      |
+| Type              | Name                                                                                          |
+| ----------------- | --------------------------------------------------------------------------------------------- |
+| GTK Theme         | [Arc-Dark](https://github.com/jnsh/arc-theme)                                                 |
+| Icon Theme        | [Arc](https://github.com/horst3180/arc-icon-theme)                                            |
+| Cursor Theme      | [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)                        |
+| Firefox Theme     | [Arc Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/)           |
+| WM                | [dwm](https://github.com/Zaedus/dwm-arc) w/ customization                                     |
+| Launcher          | [dmenu](https://github.com/Zaedus/dmenu-arc) w/ customization                                 |
+| Blocks            | [dwmblocks](https://github.com/Zaedus/dwmblocks-arc) w/ customization                         |
+| Terminal          | [alacritty](https://github.com/alacritty/alacritty)                                           |
+| Browser           | firefox or [ungoogled chromium](https://github.com/Eloston/ungoogled-chromium)                |
+| Spotify Theme     | [Arc Dark](https://github.com/morpheusthewhite/spicetify-themes/wiki/Themes-preview#arc-dark) |
+| Notifications     | [dunst](https://github.com/dunst-project/dunst)                                               |
+| Compositor        | [picom (jonaburg)](https://github.com/jonaburg/picom)                                         |
+| File Manager      | [nautilus](https://github.com/GNOME/nautilus)                                                 |
+| Wallpaper         | [arc-dark.png](https://raw.githubusercontent.com/Zaedus/arc-dotfiles/master/arc-dark.png)     |
+| Spotify Client    | [spot](https://github.com/xou816/spot) or the official client                                 |
+| Github Stats      | [octotui](https://github.com/irevenko/octotui)                                                |
+| Audio Visualizer  | [cava](https://github.com/karlstav/cava)                                                      |
+| Background Setter | [nitrogen](https://man.archlinux.org/man/extra/nitrogen/nitrogen.1.en)                        |
 
 ## Install Instructions
 

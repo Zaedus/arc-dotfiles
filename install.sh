@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# READ THIS BEFORE YOU EVEN THINK ABOUT EXECUTING
+# -----------------------------------------------
+# This script was tried in a VM and didn't work mainly because of some OpenGL problems.
+# This means that you should not expect this to work for you, but the most amount of damage this should do is to any dotfiles not backed up
+# HOWEVER, if some damage does happen, I AM NOT LIABLE FOR ANYTHING THIS SCRIPT DOES.
+# RUN AT YOUR OWN RISK
+# Have fun :)))))
+
+
 ## Vars ##
 
 # Not sure if there is any other AUR helper other than paru that has the same syntax as yay, so just know that

@@ -26,6 +26,7 @@
 | Github Stats      | [octotui](https://github.com/irevenko/octotui)                                                |
 | Audio Visualizer  | [cava](https://github.com/karlstav/cava)                                                      |
 | Background Setter | [nitrogen](https://man.archlinux.org/man/extra/nitrogen/nitrogen.1.en)                        |
+| Polkit Frontend   | [polkit-gnome](https://archlinux.org/packages/community/x86_64/polkit-gnome/)                 |
 
 ## Install Instructions
 

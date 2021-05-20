@@ -42,7 +42,7 @@ yay -S picom-jonaburg-git dunst alacritty gtk2 gtk3 arc-icon-theme arc-gtk-theme
 
 #### dotfiles
 
-> Note: Make sure you backup your dunst, alacritty, picom, and gtk configs before running!
+> Note: Make sure you backup your dunst, alacritty, picom, cava, and gtk configs before running!
 
 ```bash
 git clone https://github.com/Zaedus/arc-dotfiles.git
